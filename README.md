@@ -9,7 +9,7 @@ An ESP32-based smart spoon stabilization prototype that minimizes hand tremors u
 ## Project Preview
 
 <p align="center">
-  <img src="Images/Parkinson_spoon_ai.png">
+  <img src="Images/Parkinson_spoon_ai.png width="700"">
 </p>
 
 ---
