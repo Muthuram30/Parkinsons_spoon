@@ -1,5 +1,7 @@
 # 🥄 Parkinson's Spoon Stabilizer
 
+![ESP32](https://img.shields.io/badge/ESP32-B72527?logo=espressif&logoColor=white) ![Sensor Fusion](https://img.shields.io/badge/Sensor%20Fusion-6D549C) ![Robotics](https://img.shields.io/badge/Robotics-6D549C)
+
 An ESP32-based smart spoon stabilization prototype that minimizes hand tremors using an MPU6050 Inertial Measurement Unit (IMU) and a dual-axis servo stabilization mechanism.
 
 > **Status:** Prototype Development
@@ -175,4 +177,4 @@ GitHub: https://github.com/Muthuram30
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
